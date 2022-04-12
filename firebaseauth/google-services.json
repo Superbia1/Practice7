@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "892840603239",
+    "project_id": "practice7-802fe",
+    "storage_bucket": "practice7-802fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892840603239:android:8203097fedc521b7be2ec2",
+        "android_client_info": {
+          "package_name": "com.bsbo_08_19.lipukhin.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892840603239-bt7lug9e5thmkrb1l1nug9r09eppaun9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfCD66rijBiZCwztziiubYMSmDh7nKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892840603239-bt7lug9e5thmkrb1l1nug9r09eppaun9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892840603239:android:a209fbbc66ad4684be2ec2",
+        "android_client_info": {
+          "package_name": "ru.mirea.sorokin.bsbo0819.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892840603239-bt7lug9e5thmkrb1l1nug9r09eppaun9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfCD66rijBiZCwztziiubYMSmDh7nKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892840603239-bt7lug9e5thmkrb1l1nug9r09eppaun9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
